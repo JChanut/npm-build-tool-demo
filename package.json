@@ -1,7 +1,7 @@
 {
   "name": "stupidlittlewebsite",
   "version": "1.0.0",
-  "description": "A small demo site for our npm scripting adventure",
+  "description": "A small demo site for our npm",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
