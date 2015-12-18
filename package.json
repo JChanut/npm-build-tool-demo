@@ -27,7 +27,8 @@
     "watch": "npm-run-all --parallel watch:test watch:bundle watch:server watch:browser",
     "version:major": "npm version major",
     "version:minor": "npm version minor",
-    "version:patch": "npm version patch"
+    "version:patch": "npm version patch",
+    "push:origin": "git push --tag origin HEAD:master"
   },
   "jshintConfig": {
     "esnext": "true",
